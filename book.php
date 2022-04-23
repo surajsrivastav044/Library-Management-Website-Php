@@ -300,8 +300,7 @@
 <div class="container-fluid">
   <div class="row mt-3">
     <div class="col-sm-12 bg-success">
-            <p class="h5 text-white mt-2"><marquee behavior=alternate> @ COPYRIGHT 2019 ON 03/08/2019 BY:-DIGICODER PVT.(LTD). DEVLOPED BY:GYAN CHANDRA SRIVASTAVA GUIDED BY:-ER GOPAL SINGH </marquee></p>
-    </div>
+<p class="h5 text-white mt-2"><marquee behavior=alternate> @ COPYRIGHT 2022 ON 03/03/2022 BY:-Lovely professional university. DEVLOPED BY:GYAN CHANDRA SRIVASTAVA GUIDED BY Mr.Nishant Agnihotri.</marquee></p>    </div>
   </div>
  </div>     
  </div>          
