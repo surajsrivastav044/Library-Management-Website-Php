@@ -592,7 +592,7 @@ function renderTime() {
  <div class="container-fluid"style="background:#dab5a2">
   <div class="row">
     <div class="col-sm-12 bg-success mt-3">
-            <p class="h5 text-white mt-2"><marquee behavior=alternate> @ COPYRIGHT 2019 ON 03/08/2019 BY:-DIGICODER PVT.(LTD). DEVLOPED BY:GYAN CHANDRA SRIVASTAVA GUIDED BY ER.GOPAL SINGH.</marquee></p>
+           <p class="h5 text-white mt-2"><marquee behavior=alternate> @ COPYRIGHT 2022 ON 03/03/2022 BY:-Lovely professional university. DEVLOPED BY:GYAN CHANDRA SRIVASTAVA GUIDED BY Mr.Nishant Agnihotri.</marquee></p>
     </div>
   </div>
  </div>     
