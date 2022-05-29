@@ -10,28 +10,28 @@ this is Library management website in this website used html, css, javascript, P
 # That's all 🎊🎉 
 
 ## ScreenShots
-<img src="Screenshots/1.PNG.png" width="100%" /><br /> <br />
+<img src="Screenshots/1.PNG" width="100%" /><br /> <br />
 <img src="Screenshots/2.PNG" width="100%" /><br /> <br />
-<img src="Screenshots/3.png" width="100%" /><br /> <br />
-<img src="Screenshots/4.png" width="100%" /><br /> <br />
-<img src="Screenshots/5.png" width="100%" /><br /> <br />
-<img src="Screenshots/6.png" width="100%" /><br /> <br />
-<img src="Screenshots/7.png" width="100%" /><br /> <br />
-<img src="Screenshots/8.png" width="100%" /><br /> <br />
-<img src="Screenshots/9.png" width="100%" /><br /> <br />
-<img src="Screenshots/10.png" width="100%" /><br /> <br />
-<img src="Screenshots/11.png" width="100%" /><br /> <br />
-<img src="Screenshots/12.png" width="100%" /><br /> <br />
-<img src="Screenshots/13.png" width="100%" /><br /> <br />
-<img src="Screenshots/14.png" width="100%" /><br /> <br />
-<img src="Screenshots/15.png" width="100%" /><br /> <br />
-<img src="Screenshots/16.png" width="100%" /><br /> <br />
-<img src="Screenshots/17.png" width="100%" /><br /> <br />
-<img src="Screenshots/18.png" width="100%" /><br /> <br />
-<img src="Screenshots/19.png" width="100%" /><br /> <br />
-<img src="Screenshots/20.png" width="100%" /><br /> <br />
-<img src="Screenshots/21.png" width="100%" /><br /> <br />
-<img src="Screenshots/22.png" width="100%" /><br /> <br />
+<img src="Screenshots/3.PNG" width="100%" /><br /> <br />
+<img src="Screenshots/4.PNG" width="100%" /><br /> <br />
+<img src="Screenshots/5.PNG" width="100%" /><br /> <br />
+<img src="Screenshots/6.PNG" width="100%" /><br /> <br />
+<img src="Screenshots/7.PNG" width="100%" /><br /> <br />
+<img src="Screenshots/8.PNG" width="100%" /><br /> <br />
+<img src="Screenshots/9.PNG" width="100%" /><br /> <br />
+<img src="Screenshots/10.PNG" width="100%" /><br /> <br />
+<img src="Screenshots/11.PNG" width="100%" /><br /> <br />
+<img src="Screenshots/12.PNG" width="100%" /><br /> <br />
+<img src="Screenshots/13.PNG" width="100%" /><br /> <br />
+<img src="Screenshots/14.PNG" width="100%" /><br /> <br />
+<img src="Screenshots/15.PNG" width="100%" /><br /> <br />
+<img src="Screenshots/16.PNG" width="100%" /><br /> <br />
+<img src="Screenshots/17.PNG" width="100%" /><br /> <br />
+<img src="Screenshots/18.PNG" width="100%" /><br /> <br />
+<img src="Screenshots/19.PNG" width="100%" /><br /> <br />
+<img src="Screenshots/20.PNG" width="100%" /><br /> <br />
+<img src="Screenshots/21.PNG" width="100%" /><br /> <br />
+<img src="Screenshots/22.PNG" width="100%" /><br /> <br />
 
 # Thanks
   
