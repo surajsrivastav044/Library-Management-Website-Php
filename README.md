@@ -1,6 +1,11 @@
 <p align="center"><img src="Screenshots/php.png" width="350" hight="120" /a></p><br>
-<h1>Php Library Management System</h1
-this is Library management website in this website used html, css, javascript, Php, database <br>
+<h1>Php Library Management System</h1>
+ <b>It’s a complete Library Management System built in Laravel. This
+Library Management System is a computerized system that allows the
+admin to access the library and manage accordingly first admin have
+to login them self and after that admin manage the whole library they
+can issue the book to any student and maintain their record . and he
+can also add book if any book comes in stock and admin can change </b><br>
  <h2> Quick Start </h2>
  <b>db ---></b> it is database folder <br>
  <b>for admin login ---></b> admin.php<br>
