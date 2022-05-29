@@ -1,4 +1,4 @@
-<p align="center"><img src="Screenshots/php.png" width="400"></a></p>
+<p align="center"><img src="Screenshots/php.png" width="350" hight="140/a></p>
 <h1>Php Library Management System</h1
 this is Library management website in this website used html, css, javascript, Php, database <br>
  <h2> Quick Start </h2>
