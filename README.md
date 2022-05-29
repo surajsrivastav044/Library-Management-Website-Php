@@ -1,7 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-# Php Library Management System
+<h1>Php Library Management System</h1
 this is Library management website in this website used html, css, javascript, Php, database <br>
-## Quick Start
+ <h1> Quick Start </h1>
  db ---> it is database folder <br>
  for admin login ---> admin.php<br>
   id---> surajsrivastava044@gmail.com<br>
