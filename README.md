@@ -10,8 +10,8 @@ this is Library management website in this website used html, css, javascript, P
 # That's all 🎊🎉 
 
 ## ScreenShots
-<img src="Screenshots/1.png" width="100%" /><br /> <br />
-<img src="Screenshots/2.png" width="100%" /><br /> <br />
+<img src="Screenshots/1.PNG.png" width="100%" /><br /> <br />
+<img src="Screenshots/2.PNG" width="100%" /><br /> <br />
 <img src="Screenshots/3.png" width="100%" /><br /> <br />
 <img src="Screenshots/4.png" width="100%" /><br /> <br />
 <img src="Screenshots/5.png" width="100%" /><br /> <br />
